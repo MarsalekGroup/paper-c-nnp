@@ -3,7 +3,8 @@
 This repository contains supplementary data supporting the findings of the paper:
 
 Committee neural network potentials control generalization errors and enable active learning  
-Christoph Schran, Kyrstof Brezina, and Ondrej Marsalek
+Christoph Schran, Kyrstof Brezina, and Ondrej Marsalek  
+https://arxiv.org/abs/2006.01541
 
 
 ## Contents
