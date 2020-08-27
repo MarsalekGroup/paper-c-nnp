@@ -1,5 +1,7 @@
 # Supplementary data for a paper on committee neural network potentials
 
+[![DOI](https://zenodo.org/badge/268366471.svg)](https://zenodo.org/badge/latestdoi/268366471)
+
 This repository contains supplementary data supporting the findings of the paper:
 
 Committee neural network potentials control generalization errors and enable active learning  
