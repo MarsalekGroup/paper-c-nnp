@@ -12,7 +12,7 @@ arXiv: [2006.01541](https://arxiv.org/abs/2006.01541)
 
 ## License
 
-The contents of this repository is licensed under the CC-BY-SA-4.0 license. See the file `LICENSE` for details.
+The content of this repository is licensed under the CC-BY-SA-4.0 license. See the file `LICENSE` for details.
 
 
 ## Contents
