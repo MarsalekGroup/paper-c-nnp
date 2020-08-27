@@ -8,6 +8,11 @@ J. Chem. Phys. 153, 2020, DOI: [10.1063/5.0016004](https://doi.org/10.1063/5.001
 arXiv: [2006.01541](https://arxiv.org/abs/2006.01541)
 
 
+## License
+
+The contents of this repository is licensed under the CC-BY-SA-4.0 license. See the file `LICENSE` for details.
+
+
 ## Contents
 
 * `generation-1`  
